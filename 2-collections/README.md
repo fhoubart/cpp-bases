@@ -49,8 +49,7 @@ Exemple :
 
 std::deque<int> d;
 d.push_back(1); // d = [ 1 ]
-d.push_back(2); // d = [ 1, 2 ]Concernant la formation Prince2, 2 collaborateurs validés à ce jour, 2 collaborateurs intéressés, mais non disponibles (suite à retour clients).
-
+d.push_back(2); // d = [ 1, 2 ]
 d.push_front(3); // d = [ 3, 1, 2 ]
 int i = d[0]; // i = 3
 int j = d[1]; // j = 2
